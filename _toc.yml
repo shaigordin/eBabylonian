@@ -1,0 +1,31 @@
+format: jb-book
+root: introduction/intro
+parts:
+  - caption: Introduction
+    chapters:
+      - file: introduction/00_01_akkadian_semitic_language
+      - file: introduction/00_02_history_periodisation
+      - file: introduction/00_04_cuneiform
+      - file: introduction/00_06_dh
+  - caption: Lessons
+    chapters:
+      - file: lesson_1_law_and_royal_inscriptions/main
+      - file: lesson_2_letters/main
+      - file: lesson_3_contracts_and_administrative/main
+      - file: lesson_4_literary_texts/main
+        sections:
+          - file: lesson_4_literary_texts/literary-genres
+      - file: lesson_5_scientific_texts/main
+  - caption: Core Grammar Appendix Collection
+    chapters:
+      - file: appendix/grammar_reference
+      - file: appendix/parts_of_speech
+      - file: appendix/nominal-forms
+      - file: appendix/primary-nouns
+      - file: appendix/paradigm-nouns
+      - file: appendix/paradigm-verbs
+      - file: appendix/tense-aspect-mode
+      - file: appendix/mimmation-nunnation
+      - file: appendix/vowel-contraction
+      - file: appendix/numbers
+      - file: appendix/signs

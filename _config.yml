@@ -1,0 +1,12 @@
+title: eBabylonian - Reading Babylonian Texts
+author: Shai Gordin
+logo: ""
+execute:
+  execute_notebooks: off
+html:
+  use_repository_button: true
+  use_issues_button: true
+repository:
+  url: https://github.com/shaigordin/eBabylonian
+  path_to_book: ""
+  branch: main
